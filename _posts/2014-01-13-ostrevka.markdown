@@ -3,9 +3,10 @@ layout: post
 title:  "Ostrévka!"
 date:   2014-01-13 22:35:15
 categories: update
+excerpt: "Nové webové stránky Ostrévka o.s."
 ---
 
-Ostréwwwka
+Ostréwwwka na webu.
 
 ![Fotka krajiny s ostrévku]({{ site.url }}/assets/ostrevka.jpg)
 
