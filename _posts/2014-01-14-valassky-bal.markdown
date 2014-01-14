@@ -5,8 +5,6 @@ date:   2014-01-14 22:00:00
 categories: update
 ---
 
-Valašský bál
-
 Srdečně Vás zveme na Valašský bál, který se koná 8.2.2013 v Novém Hrozenkově. 
 
 K poslechu a tanci zahraje cimbálová muzika Bača z Valašského Meziříčí. 
