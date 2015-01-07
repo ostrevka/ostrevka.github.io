@@ -5,7 +5,7 @@ date:   2015-01-17 20:00:00
 categories: update
 ---
 
-Srdečně Vás zveme na Valašský bál, který se koná 31.1.2014 v Novém Hrozenkově. 
+Srdečně Vás zveme na Valašský bál, který se koná 31.1.2015 v Novém Hrozenkově. 
 
 K poslechu a tanci zahraje cimbálová muzika Bača a cimbálová muzika Kotula. 
 
